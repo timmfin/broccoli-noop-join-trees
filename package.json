@@ -1,0 +1,26 @@
+{
+  "name": "broccoli-noop-join-trees",
+  "version": "0.0.1",
+  "description": "Joins an array of trees to the main input three, doing nothing with the joined trees output. Use in order to ensure that some trees are read (before they are actually needed).",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:timmfin/broccoli-noop-join-trees.git"
+  },
+  "keywords": [
+    "broccoli"
+  ],
+  "author": "tfinley@hubspot.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/timmfin/broccoli-noop-join-trees/issues"
+  },
+  "homepage": "https://github.com/timmfin/broccoli-noop-join-trees",
+  "dependencies": {
+    "promise-map-series": "^0.2.1",
+    "rsvp": "^3.0.18"
+  }
+}
