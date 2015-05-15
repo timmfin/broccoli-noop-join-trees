@@ -14,13 +14,11 @@
     "broccoli"
   ],
   "author": "tfinley@hubspot.com",
-  "license": "ISC",
   "bugs": {
     "url": "https://github.com/timmfin/broccoli-noop-join-trees/issues"
   },
   "homepage": "https://github.com/timmfin/broccoli-noop-join-trees",
   "dependencies": {
-    "promise-map-series": "^0.2.1",
-    "rsvp": "^3.0.18"
+    "promise-map-series": "^0.2.1"
   }
 }
